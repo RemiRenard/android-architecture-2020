@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SingleActivitySample</string>
+    <string name="home_message_title">Home</string>
+</resources>
